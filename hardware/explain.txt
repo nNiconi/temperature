@@ -1,0 +1,4 @@
+mcu:          HC32L110B4PA
+
+sensor:       gy-906
+
